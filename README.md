@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @youssefdiaa12
 - 👀 I’m interested in problem solving
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on Flutter projects
+- 🌱 I’m currently learning Software Testing
+- 💞️ I’m looking to collaborate on Software testing projects
 - 📫 How to reach me ...you can call me at 01022017740
 
 <!---
